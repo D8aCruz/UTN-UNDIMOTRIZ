@@ -84,16 +84,16 @@ Este README general se enfoca solo en **visión global, requisitos y créditos**
 
 ### Integrantes
 
-- **[Calero Costa, Diego Andrés]**
-- **[Ochoa Cruz, David]**
+- **Calero Costa, Diego Andrés**
+- **Ochoa Cruz, David**
 
 ### Profesor
 
-- **[Ing. Oscar Pugliese]**
+- **Ing. Oscar Pugliese**
 
 ### Ayudantes
 
-- **[Diego Pirotta]**
+- **Diego Pirotta**
 
 ---
 
@@ -107,3 +107,4 @@ Este README general se enfoca solo en **visión global, requisitos y créditos**
 ## 🟢 Estado del proyecto
 
 Proyecto integrado funcional para laboratorio, con arquitectura modular y operación en tiempo real.
+
