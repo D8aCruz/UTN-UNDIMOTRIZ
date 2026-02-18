@@ -91,7 +91,7 @@ Este README general se enfoca solo en **visión global, requisitos y créditos**
 
 - **Ing. Oscar Pugliese**
 
-### Ayudantes
+### Ayudante
 
 - **Diego Pirotta**
 
@@ -107,4 +107,5 @@ Este README general se enfoca solo en **visión global, requisitos y créditos**
 ## 🟢 Estado del proyecto
 
 Proyecto integrado funcional para laboratorio, con arquitectura modular y operación en tiempo real.
+
 
